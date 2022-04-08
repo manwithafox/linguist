@@ -1,15 +1,15 @@
 ---
-name: vscode-yara
-version: cc5e2d2372449329c4eb3167538592a7d378e5f5
+name: Ligo-grammar
+version: d1338b118b7509ccad86597bb9eb83f9f9366684
 type: git_submodule
-homepage: https://github.com/infosec-intern/vscode-yara.git
+homepage: https://github.com/pewulfman/Ligo-grammar.git
 license: mit
 licenses:
 - sources: LICENSE
   text: |
-    The MIT License (MIT)
+    MIT License
 
-    Copyright (c) 2016 infosec-intern
+    Copyright (c) 2022 Pierre-Emmanuel Wulfman
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
